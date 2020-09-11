@@ -1,0 +1,32 @@
+1599631869277	geckodriver	INFO	Listening on 127.0.0.1:60000
+1599631872823	geckodriver	INFO	Listening on 127.0.0.1:60016
+1599632715394	geckodriver	INFO	Listening on 127.0.0.1:60512
+1599632718758	geckodriver	INFO	Listening on 127.0.0.1:60522
+1599633739304	geckodriver	INFO	Listening on 127.0.0.1:61101
+1599633742483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KAVYAJ~1\\AppData\\Local\\Temp\\rust_mozprofilefDJef7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599633753957	Marionette	INFO	Listening on port 61128
+1599633754224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599633759393	Marionette	INFO	Stopped listening on port 61128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599633764195	geckodriver	INFO	Listening on 127.0.0.1:61210
+1599633767371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KAVYAJ~1\\AppData\\Local\\Temp\\rust_mozprofileVy9qqD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599633776707	Marionette	INFO	Listening on port 61219
+1599633777099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599633789402	Marionette	INFO	Stopped listening on port 61219
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 21860, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
